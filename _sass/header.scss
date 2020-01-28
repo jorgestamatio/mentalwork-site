@@ -1,0 +1,23 @@
+
+.site-header {
+  background: #222;
+  color: #fff;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  border: none;
+}
+
+.site-nav {
+  .page-link, .page-link:visited {
+    color: white;
+  }
+}
+
+.site-title {
+  display: none;
+}
+
+.site-nav {
+  float: left;
+}

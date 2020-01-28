@@ -1,0 +1,11 @@
+---
+layout: post
+categories: research
+style: light
+---
+
+> Neural interfaces are information technology systems that interact directly with the human nervous system to control a computer, machine or connect to the internet.
+They can be non-invasive, picking up signals through electrodes placed outside the body, or invasive, breaking the skin or skull barrier to implant electrodes directly into the brain or peripheral nervous system.
+
+<br>
+The Mental Work Research Platform offers a unique opportunity to explore the myriad possibilities of designing and testing new neural interfaces by creating user-centric models for neural interfaces based on user experience design. The overarching research direction is to explore how different neural interface designs can enhance a feeling of embodiment in the user: How can we improve on the sense of “being part of the machine” to augment control? Equally important is an empirical exploration of the ethical concerns that neural interfaces evoke.

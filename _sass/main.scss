@@ -1,0 +1,103 @@
+body {
+  font-family: futura-pt-bold,sans-serif;
+  background: #222;
+  color: #fff;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.2em;
+  line-height: 1.3em;
+}
+
+.logo {
+  max-width: 250px;
+}
+
+.wrapper {
+  max-width: 100%;
+  padding: 0px;
+}
+
+.post-title {
+  text-align: center;
+}
+
+.post-content {
+  width: 100%;
+}
+
+blockquote {
+  font-size: 1.9em;
+  line-height: 1.2em;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border: none;
+  color: inherit;
+}
+
+blockquote:before {
+  position: absolute;
+  display: block;
+  content: "\201D";
+  top: -10px;
+  left: -30px;
+  font-size: 70px;
+}
+
+.flex-center {
+  flex-wrap: wrap;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  padding: 10%;
+  &.header {
+    padding-bottom: 0px;
+  }
+}
+
+.narrow {
+  width: 120px;
+}
+
+.center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.light {
+  background: #fff;
+  color: #111;
+}
+
+.dark {
+  background: #222;
+  color: #fff;
+  hr {
+    background: #70c1b3;
+  }
+}
+
+hr {
+  flex-grow: 1;
+  height: 4px;
+  background: #ec6a7b;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  text-align: center;
+}
+
+a {
+  color: #70c1b3;
+  text-decoration: none;
+}
