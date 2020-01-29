@@ -12,6 +12,9 @@
   .page-link, .page-link:visited {
     color: white;
   }
+  .page-link.active {
+    color: #ec6a7b;
+  }
 }
 
 .site-title {
@@ -19,5 +22,8 @@
 }
 
 .site-nav {
-  float: left;
+  float: none;
+  text-align: center;
+  font-size: 1.2em;
+  border-bottom: 1px solid white
 }

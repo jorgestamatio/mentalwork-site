@@ -4,14 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-<div class="center">
-  <img src="/assets/logos/logo_black.png" alt="Mental Work logo" class="logo">
-</div>
-
-{%- for post in site.categories['research'] reversed -%}
-<section class="{{post.style}}">
-  <div class="">
-    {{ post.content }}
-  </div>
-</section>
-{%- endfor -%}
+{% include subpage.html category='research' %}
