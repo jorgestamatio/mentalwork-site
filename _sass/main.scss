@@ -82,14 +82,14 @@ section {
   background: #222;
   color: #fff;
   hr {
-    background: #70c1b3;
+    background: $green;
   }
 }
 
 hr {
   flex-grow: 1;
   height: 4px;
-  background: #ec6a7b;
+  background: $red;
   margin-top: 22px;
   margin-bottom: 22px;
   margin-left: auto;
@@ -99,6 +99,6 @@ hr {
 }
 
 a {
-  color: #70c1b3;
+  color: $green;
   text-decoration: none;
 }

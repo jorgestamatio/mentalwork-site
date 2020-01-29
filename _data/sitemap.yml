@@ -1,0 +1,20 @@
+# links from EN permalinks
+/project/:
+  en: /project/
+  fr: /fr/project/
+/research/:
+  en: /research/
+  fr: /fr/research/
+/work/:
+  en: /work/
+  fr: /fr/work/
+# links from FR permalinks
+/fr/project/:
+  en: /project/
+  fr: /fr/project/
+/fr/research/:
+  en: /research/
+  fr: /fr/research/
+/fr/work/:
+  en: /work/
+  fr: /fr/work/

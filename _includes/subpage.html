@@ -3,9 +3,11 @@
 </div>
 
 {%- for post in site.categories[include.category] reversed -%}
-<section class="{{post.style}}">
-  <div class="">
-    {{ post.content }}
-  </div>
-</section>
+    {% if post.lang == page.lang %}
+      <section class="{{post.style}}">
+        <div class="">
+          {{ post.content }}
+        </div>
+      </section>
+    {%- endif -%}
 {%- endfor -%}
