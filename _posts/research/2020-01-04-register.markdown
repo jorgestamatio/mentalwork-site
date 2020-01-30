@@ -7,3 +7,6 @@ lang: en
 
 ## Register for the User Lab
 ___
+
+### [COMING SOON]
+{:.center}

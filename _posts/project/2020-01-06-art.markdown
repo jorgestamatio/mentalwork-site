@@ -1,0 +1,19 @@
+---
+layout: post
+categories: project
+style: dark
+lang: en
+---
+
+### SUPPORT ART
+{: .center}
+###  NECESSARY STATEMENT ON TECHNOLOGY
+{: .center}
+___
+{: .narrow}
+
+Mental Work grasps a unique opportunity to open a public conversation through a truly interactive and aesthetic experience:
+
+* Better anticipate our relationship with technology
+* Include public at early phase of development
+* Experiment technology in a performative space to question technology, science and ourselves

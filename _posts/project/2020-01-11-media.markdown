@@ -1,0 +1,14 @@
+---
+layout: post
+categories: project
+style: dark
+lang: en
+---
+
+### MEDIA
+{: .center}
+___
+{: .narrow}
+
+{: .center}
+![Media distribution](/assets/photos/project/media.jpg)

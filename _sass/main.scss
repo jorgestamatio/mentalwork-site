@@ -112,7 +112,7 @@ hr {
   text-align: center;
 }
 
-a {
+a, a:visited {
   color: $green;
   text-decoration: none;
 }
@@ -147,4 +147,9 @@ a {
     padding: 20px;
     height: auto;
   }
+}
+
+.contact-teaser {
+  font-size: 2em;
+  padding-top: 40px;
 }

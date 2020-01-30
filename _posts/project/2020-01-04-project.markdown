@@ -1,0 +1,24 @@
+---
+layout: post
+categories: project
+style: dark
+lang: en
+---
+
+### ART & SCIENCE CONVERGENCE
+{: .center}
+___
+{: .narrow}
+
+{: .center}
+![Art and Science convergence](/assets/photos/project/art_and_science.jpg)
+
+<br>
+
+### THE MENTAL WORK EXPERIENCE
+{: .center}
+___
+{: .narrow}
+
+{: .center}
+![The Mental Work experience](/assets/photos/project/experience.jpg)
