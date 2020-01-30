@@ -2,7 +2,10 @@
 layout: post
 categories: research
 style: light
+lang: en
 ---
+
+<br>
 
 > Neural interfaces are information technology systems that interact directly with the human nervous system to control a computer, machine or connect to the internet.
 They can be non-invasive, picking up signals through electrodes placed outside the body, or invasive, breaking the skin or skull barrier to implant electrodes directly into the brain or peripheral nervous system.

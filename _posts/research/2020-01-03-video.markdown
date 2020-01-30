@@ -2,6 +2,7 @@
 layout: post
 categories: research
 style: dark center
+lang: en
 ---
 
 <iframe src="https://player.vimeo.com/video/262408025?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="80%" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="allowfullscreen"></iframe>
