@@ -54,7 +54,4 @@
       color: $green;
     }
   }
-  @include media-query($on-palm) {
-    float: none;
-  }
 }
