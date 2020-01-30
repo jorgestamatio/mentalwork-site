@@ -12,8 +12,8 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
               {%- assign my_page_url = my_page.url -%}
-              {%- if site.data.sitemap[my_page.title][page.lang] -%}
-              {%- assign my_page_url = site.data.sitemap[my_page.title][page.lang] -%}
+              {%- if site.data.sitemap[my_page.permalink][page.lang] -%}
+              {%- assign my_page_url = site.data.sitemap[my_page.permalink][page.lang] -%}
               {%- endif -%}
               <a class="page-link
                 {% if page.url contains my_page.url %}active{% endif %}

@@ -1,0 +1,8 @@
+---
+layout: post
+categories: work
+style: light center
+lang: fr
+---
+
+**In October of 2017, Switzerland opened the first factory in the world to be operated exclusively by workers' minds. Enlisting revolutionary technology developed by neuroengineers at EPFL, employees are psychologically decoupled from their bodies, past experiences, and preconceived ideas about the future.**

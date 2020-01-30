@@ -1,0 +1,13 @@
+---
+layout: post
+categories: work
+style: dark center
+lang: fr
+---
+
+{:.flex-center}
+  ![head](/assets/photos/work/head.png){:.bmi-infografic}
+  <img class="bmi-infografic hand-hover">
+  ![wheel](/assets/photos/work/wheel.png){:.bmi-infografic.spin-hover}
+
+Mental Workers employ Brain-Machine Interfaces (BMI) to control machines using only their minds. These machines allow workers to tangibly engage with a future where pervasive BMI interaction with the physical environment becomes commonplace. Together with our employees and affiliates, we are dedicated to anticipating and planning for this upcoming Cognitive Revolution.

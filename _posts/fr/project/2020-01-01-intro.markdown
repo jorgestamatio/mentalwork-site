@@ -1,0 +1,19 @@
+---
+layout: post
+categories: project
+style: light
+lang: fr
+---
+
+[TRADUCTION EN COURS]
+
+<br>
+
+>Provoking reflection on our relationship with technology, Mental Work machinery is dedicated to manufacturing the future by philosophically engaging workers’ minds with ideas that will drive the Cognitive Revolution.
+
+<br>
+
+At Mental Work, the public uses research grade EEG helmets to connect to spectacular sculptures and activate them with neural interface (NI) protocols used in EPFL laboratories.
+
+[CONTACT US](#contact)
+{:.center .contact-teaser}

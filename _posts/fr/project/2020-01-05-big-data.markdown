@@ -1,0 +1,22 @@
+---
+layout: post
+categories: project
+style: light
+lang: fr
+---
+
+### BIG DATA FOR NEURAL INTERFACE ADVANCEMENT
+{: .center}
+___
+{: .narrow}
+
+Mental Work is not only an exhibition. By fostering the activities of the Mental Workers, it accelerates Neural Interface research by:
+
+* Creating an extended big dataset for NI community
+* Engaging public in open, participatory science
+* Exploring new methods of BMI training and feedback
+* Evaluating control and feeling of novel interfaces
+
+
+{: .center}
+  ![Mental Work](/assets/photos/generic/mental-work-4.jpg)
