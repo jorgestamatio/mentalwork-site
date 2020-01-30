@@ -18,4 +18,8 @@
 
 {% include partners.html %}
 
-{% include photos.html %}
+{% if include.category == 'project' %}
+  {% include gallery_extended.html %}
+{%- else -%}
+  {% include gallery.html %}
+{%- endif -%}

@@ -11,4 +11,4 @@ ___
 {: .narrow}
 
 {: .center}
-![Media distribution](/assets/photos/project/media.jpg)
+![Media distribution](/assets/photos/project/media.png)

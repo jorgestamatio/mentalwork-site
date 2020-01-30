@@ -11,7 +11,7 @@ ___
 {: .narrow}
 
 {: .center}
-![Art and Science convergence](/assets/photos/project/art_and_science.jpg)
+![Art and Science convergence](/assets/photos/project/art_and_science.png)
 
 <br>
 
@@ -21,4 +21,4 @@ ___
 {: .narrow}
 
 {: .center}
-![The Mental Work experience](/assets/photos/project/experience.jpg)
+![The Mental Work experience](/assets/photos/project/experience.png)
