@@ -1,7 +1,11 @@
 <section class="dark">
   <div class="flex-center">
     <div>
-      <h2>Partners</h2>
+      {% if page.lang == 'fr' %}
+        <h2>Partenaires</h2>
+      {%- else -%}
+        <h2>Partners</h2>
+      {%- endif -%}
       <hr>
     </div>
   </div>

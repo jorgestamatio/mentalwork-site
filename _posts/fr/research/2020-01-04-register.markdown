@@ -5,5 +5,8 @@ style: light flex-center
 lang: fr
 ---
 
-## Register for the User Lab
+## INSCRIPTION POUR LE LABORATOIRE UTILISATEUR
 ___
+
+### [BIENTÔT OUVERT]
+{:.center}

@@ -5,16 +5,16 @@ style: dark
 lang: fr
 ---
 
-### ETHICS OF NEURAL INTERFACES
+### L'ÉTHIQUE DES INTERFACES NEURONALES
 {: .center}
 ___
 {: .narrow}
 
-Mental Work Research Platform for Ethical Implementation of Neural Interfaces aims to assess and mitigate several key societal impacts that the development of neural interfaces could have. We introduce users to neural interfaces through the existing Mental Work system—asking them to engage with a machine by modulating their brain activity after a short training period. They will be equipped with a state-of-the-art dry EEG helmet and given several minutes to interact with the machine without the intermediary of a physical interface. In this way, we can more actively engage them in the following themes in the form of unstructured interviews. Having just actively engaged with a neural interface, they will feel more invested in the ethical implications of the technology as it quickly develops.
+La plate-forme de recherche "Mental Work" pour la mise en œuvre éthique des interfaces neuronales vise à évaluer et à atténuer plusieurs impacts sociétaux clés que le développement des interfaces neuronales pourrait avoir. Nous introduisons les utilisateurs aux interfaces neuronales par le biais du système existant de Mental Work - en leur demandant de s'engager dans une machine en modulant leur activité cérébrale après une courte période d'entraînement. Ils seront équipés d'un casque EEG sec de pointe et disposeront de plusieurs minutes pour interagir avec la machine sans l'intermédiaire d'une interface physique. De cette façon, nous pouvons les engager plus activement dans les thèmes suivants sous la forme d'entretiens non structurés. Après s'être simplement engagés activement avec une interface neuronale, ils se sentiront plus investis dans les implications éthiques de cette technologie qui se développe rapidement.
 
-Our study will look to empirically assess the public’s potential concern about neural interfaces, engaging them in conversations around these four key societal impacts concern:
+Notre étude cherchera à évaluer empiriquement l'inquiétude potentielle du public concernant les interfaces neuronales, en l'engageant dans des conversations autour de quatre préoccupations clés en matière d'impacts sociétaux :
 
-1. Data privacy and consent
-2. Individual agency and sense of identity
-3. Human augmentation and risk of greater inequalities
-4. Bias in neural interfaces
+1. Protection des données et consentement
+2. Agentivité individuelle et sentiment d'identité
+3. L'augmentation humaine et le risque de plus grandes inégalités
+4. Biais dans les interfaces neuronales

@@ -5,7 +5,12 @@
       <hr>
     </div>
   </div>
+
+{% if page.lang == 'fr' %}
+  <h3>Couverture média locale et internationale:</h3>
+{%- else -%}
   <h3>International and local media coverage:</h3>
+{%- endif -%}
   <a target="_blank" href="https://www.reuters.com/video/2017/10/20/moving-machinery-using-mind-power-alone?videoId=372783830">➔ Reuters UK</a> (broadcasted by +22 TV channels)
   <br>
   <a target="_blank" href="https://spectrum.ieee.org/the-human-os/biomedical/bionics/artist-creates-a-factory-of-the-future-with-machines-controlled-by-brain-waves">➔ IEEE Spectrum</a>
@@ -28,5 +33,9 @@
   <br>
   <a target="_blank" href="https://www.tdg.ch/savoirs/sciences/Se-servir-de-son-cerveau-comme-d-une-telecommande/story/19476977">➔ Tribune de Genève / 24 Heures</a>
   <br><br>
-  <p>Also covered in Russia, China, France, Vietnam, Chile, and elsewhere around the world.  </p>
+  {% if page.lang == 'fr' %}
+    <p>Aussi couvert en Russie, Chine, France, Vietnam, Chili, et dans d'autres pays du monde. </p>
+  {%- else -%}
+    <p>Also covered in Russia, China, France, Vietnam, Chile, and elsewhere around the world. </p>
+  {%- endif -%}
 </section>

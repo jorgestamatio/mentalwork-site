@@ -5,5 +5,5 @@ style: header dark flex-center
 lang: fr
 ---
 
-## Research directions
+## ORIENTATIONS DE RECHERCHE
 ___

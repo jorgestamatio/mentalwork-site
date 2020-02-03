@@ -5,12 +5,10 @@ style: light
 lang: fr
 ---
 
-[TRADUCTION EN COURS]
-
 <br>
 
-> Neural interfaces are information technology systems that interact directly with the human nervous system to control a computer, machine or connect to the internet.
-They can be non-invasive, picking up signals through electrodes placed outside the body, or invasive, breaking the skin or skull barrier to implant electrodes directly into the brain or peripheral nervous system.
+> Les interfaces neuronales sont des systèmes informatiques qui interagissent directement avec le système nerveux humain pour contrôler un ordinateur, une machine ou se connecter à internet.
+Elles peuvent être non invasives, en captant des signaux par des électrodes placées à l'extérieur du corps, ou invasives, en brisant la barrière de la peau ou du crâne pour implanter des électrodes directement dans le cerveau ou le système nerveux périphérique.
 
 <br>
-The Mental Work Research Platform offers a unique opportunity to explore the myriad possibilities of designing and testing new neural interfaces by creating user-centric models for neural interfaces based on user experience design. The overarching research direction is to explore how different neural interface designs can enhance a feeling of embodiment in the user: How can we improve on the sense of “being part of the machine” to augment control? Equally important is an empirical exploration of the ethical concerns that neural interfaces evoke.
+La plateforme de recherche "Mental Work" offre une occasion unique d'explorer les innombrables possibilités de concevoir et tester de nouvelles interfaces neuronales en créant des modèles d'interfaces centrés sur l'utilisateur et considérant la conception de l'expérience utilisateur. L'orientation générale de la recherche est d'explorer comment différentes conceptions d'interfaces neuronales peuvent améliorer le sentiment d'incarnation chez l'utilisateur : Comment pouvons-nous améliorer le sentiment de "faire partie de la machine" pour accroître le contrôle ? Il est tout aussi important d'explorer empiriquement les préoccupations éthiques que les interfaces neuronales suscitent.

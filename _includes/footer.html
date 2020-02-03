@@ -4,7 +4,11 @@
       <div>
         <div class="text-left">
           <div id="contact">
-            <h2 class="text-left">For all inquiries, please contact:</h2>
+            {% if page.lang == 'fr' %}
+              <h2 class="text-left">Pour toute demande, merci de contacter:</h2>
+            {%- else -%}
+              <h2 class="text-left">For all inquiries, please contact:</h2>
+            {%- endif -%}
             <hr>
             <br>
             <address>

@@ -1,7 +1,11 @@
 <section class="header light">
   <div class="flex-center">
     <div>
-      <h2>Team profiles</h2>
+      {% if page.lang == 'fr' %}
+        <h2>Équipe</h2>
+      {%- else -%}
+        <h2>Team profiles</h2>
+      {%- endif -%}
       <hr>
     </div>
   </div>
