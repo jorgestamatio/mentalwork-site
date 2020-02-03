@@ -5,7 +5,7 @@ style: dark
 lang: fr
 ---
 
-### ART & SCIENCE CONVERGENCE
+### CONVERGENCE ART & SCIENCE
 {: .center}
 ___
 {: .narrow}
@@ -15,7 +15,7 @@ ___
 
 <br>
 
-### THE MENTAL WORK EXPERIENCE
+### L'EXPÉRIENCE MENTAL WORK
 {: .center}
 ___
 {: .narrow}

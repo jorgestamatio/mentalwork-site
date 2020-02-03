@@ -5,15 +5,15 @@ style: dark
 lang: fr
 ---
 
-### SUPPORT ART
+### SOUTENIR L'ART
 {: .center}
-###  NECESSARY STATEMENT ON TECHNOLOGY
+### DÉCLARATION NÉCESSAIRE SUR LA TECHNOLOGIE
 {: .center}
 ___
 {: .narrow}
 
-Mental Work grasps a unique opportunity to open a public conversation through a truly interactive and aesthetic experience:
+Mental Work saisit une occasion unique d'ouvrir une conversation publique à travers une expérience véritablement interactive et esthétique :
 
-* Better anticipate our relationship with technology
-* Include public at early phase of development
-* Experiment technology in a performative space to question technology, science and ourselves
+* Mieux anticiper notre relation avec la technologie
+* Inclure le public dès la première phase de développement
+* Expérimenter la technologie dans un espace performatif pour interroger la technologie, la science et nous-mêmes

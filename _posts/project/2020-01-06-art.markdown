@@ -7,7 +7,7 @@ lang: en
 
 ### SUPPORT ART
 {: .center}
-###  NECESSARY STATEMENT ON TECHNOLOGY
+### NECESSARY STATEMENT ON TECHNOLOGY
 {: .center}
 ___
 {: .narrow}

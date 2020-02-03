@@ -5,7 +5,7 @@ style: dark
 lang: fr
 ---
 
-### MEDIA
+### MÉDIAS
 {: .center}
 ___
 {: .narrow}

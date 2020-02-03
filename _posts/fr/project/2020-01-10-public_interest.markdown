@@ -5,27 +5,26 @@ style: light
 lang: fr
 ---
 
-### A VIVID PUBLIC INTEREST
+### UN INTÉRÊT PUBLIC FORT
 {: .center}
 ___
 {: .narrow}
 
-**Over 700 participants in two continents**
+**Plus de 700 participants sur deux continents**
 <br>
-**95% capacity in Lausanne and San Francisco**
+**Capacité de 95 % à Lausanne et à San Francisco**
 {: .center}
 
 <br>
 
-> It was truly incredible, I felt like the machine was an extension of my body.
+> C'était vraiment incroyable, j'avais l'impression que la machine était une extension de mon corps.
 
 <br>
-Emmanuel Borloz, journalist at 24Heures
+Emmanuel Borloz, journaliste à 24Heures
 
 <br>
 
-> It was an experience I will never forget, amazing! Especially the alpha waves, what an incredible cerebral experience!
+> C'était une expérience que je n'oublierai jamais, incroyable ! Surtout les ondes alpha, quelle incroyable expérience cérébrale !
 
 <br>
-Aline, Mental Worker from Orbe, Switzerland
-
+Aline, Mental Worker à Orbe, Switzerland

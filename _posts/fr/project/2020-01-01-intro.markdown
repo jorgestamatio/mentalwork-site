@@ -5,15 +5,13 @@ style: light
 lang: fr
 ---
 
-[TRADUCTION EN COURS]
+<br>
+
+>Provoquant une réflexion sur notre relation avec la technologie, la machinerie Mental Work se consacre à la fabrication du futur en engageant philosophiquement l'esprit des travailleurs avec des idées qui seront le moteur de la Révolution Cognitive
 
 <br>
 
->Provoking reflection on our relationship with technology, Mental Work machinery is dedicated to manufacturing the future by philosophically engaging workers’ minds with ideas that will drive the Cognitive Revolution.
+Au Mental Work, le public utilise des casques EEG à la pointe de la recherche pour se connecter à des sculptures spectaculaires et les activer avec les protocoles d'interface neurale (NI) utilisés dans les laboratoires de l'EPFL.
 
-<br>
-
-At Mental Work, the public uses research grade EEG helmets to connect to spectacular sculptures and activate them with neural interface (NI) protocols used in EPFL laboratories.
-
-[CONTACT US](#contact)
+[NOUS CONTACTER](#contact)
 {:.center .contact-teaser}

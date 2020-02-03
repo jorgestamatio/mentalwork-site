@@ -5,11 +5,9 @@ style: light
 lang: fr
 ---
 
-[TRADUCTION EN COURS]
-
 <br>
 
-> Our factory's brain-computer interfaces detect neural signals through workers' skulls. Algorithmic analysis of these signals transforms cognitive activity into physical action.
+> Les interfaces cerveau-ordinateur de notre usine détectent les signaux neuronaux à travers le crâne des travailleurs. L'analyse algorithmique de ces signaux transforme l'activité cognitive en action physique.
 
 <br>
 José Millán<br>
@@ -20,5 +18,5 @@ and Defitech Foundation Chair in Brain-Machine Interface, EPFL
 <hr>
 
 <br>
-THE WORLD’S FIRST FACTORY OPERATED BY WORKERS’ BRAINWAVES
+LA PREMIÈRE USINE AU MONDE EXPLOITÉE PAR LES ONDES CÉRÉBRALES DES TRAVAILLEURS
 {:.center}
